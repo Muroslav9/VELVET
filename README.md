@@ -1,6 +1,6 @@
 # Velvet Theme
 
-WordPress theme
+WordPress themee
 
 <br/>
 <img src="images/images.jpg" />
